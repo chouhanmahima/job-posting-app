@@ -85,7 +85,7 @@ Start the application using the following command:
 ```sh
 npm start
 ```
-The server will be running at `http://localhost:4000.`
+The server will be running at `http://localhost:10000.`
 
 ## API Endpoints
 
