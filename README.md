@@ -87,6 +87,25 @@ npm start
 ```
 The server will be running at `http://localhost:10000.`
 
+## All the 4 API Link 🔄Job Application + Deployment🔄
+
+1. `Post`
+  ```bash
+  https://job-posting-app-qjzj.onrender.com/api/jobs
+  ```
+   2. `Get`
+  ```bash
+  https://job-posting-app-qjzj.onrender.com/api/jobs/?minSalary=30000&maxSalary=1100000
+  ```
+  3. `Put`
+  ```bash
+  https://job-posting-app-qjzj.onrender.com/api/jobs/:id
+  ```
+  4. `Delete`
+  ```bash
+  https://job-posting-app-qjzj.onrender.com/api/jobs/:id
+  ```
+
 ## API Endpoints
 
 ### Create a Job
