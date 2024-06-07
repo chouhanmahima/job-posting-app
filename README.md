@@ -15,16 +15,16 @@ The Job Posting Application is a simple web application built with Node.js, Expr
 ## Postman Screenshorts
 
 #### Get Method
-![Get](./Images/Get.png)
+![Get](./images/get.png)
 
 #### Post Method
-![Post](./Images/Post.png)
+![Post](./images/post.png)
 
 #### Put Method
-![Put](./Images/Put.png)
+![Put](./images/put.png)
 
 #### Delete Method
-![Delete](./Images/Delete.png)
+![Delete](./images/delete.png)
 
 
 ## Project Structure
